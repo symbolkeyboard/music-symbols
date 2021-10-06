@@ -11,3 +11,15 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Music Symbols
+#### ♩ Quarter Note
+#### ♪ Eighth Note
+#### ♫ Beamed Eighth Notes
+#### ♬ Beamed Sixteenth Notes
+#### ♭ Music Flat Sign
+#### ♮ Music Natural Sign
+#### ♯ Music Sharp Sign
+#### ø Latin Small Letter O with Stroke
+#### ≠ Not Equal To
+#### ≭ Not Equivalent To
+#### ؂ Arabic Footnote Marker
+#### ° Degree Sign
